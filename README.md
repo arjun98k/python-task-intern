@@ -1,4 +1,4 @@
-It looks like you've created a Python script to perform an SQL injection attack using Selenium WebDriver. Let's break down your code and explain how the task is performed:
+
 
 1. **Setting Up the Environment:**
     - You've imported the necessary modules, including `webdriver` from Selenium.
